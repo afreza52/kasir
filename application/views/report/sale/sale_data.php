@@ -46,7 +46,7 @@
                     </div>
                 </div>
                 <div class="box-footer">
-                    <button type="button" class="btn btn-default">Reset</button>
+                    <button type="close" class="btn btn-default">Reset</button>
                     <button type="submit" class="btn btn-primary pull-right"><i class="fa fa-search"></i>
                         Filter</button>
                 </div>
